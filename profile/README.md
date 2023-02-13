@@ -2,6 +2,6 @@
 
 > Maximizer - a CRM specifically built for the sales leader.
 
-#### Product links
+#### Useful links
 - [MaximizerCRM](https://www.maximizer.com)
 - [Maximizer Developer portal](https://developer.maximizer.com/)
