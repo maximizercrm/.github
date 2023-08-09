@@ -6,8 +6,8 @@
 - [Maximizer Developer portal](https://developer.maximizer.com/)
 - [Ferret API (REST) portal](https://rest-api.maximizer.com/)
 - [Octopus API Postman collection](https://www.postman.com/maximizercrm/workspace/maximizer-api)
-- [Octopus API Postman collection (source)](https://github.com/maximizercrm/octopus-api-postman)
-- [Ferret API Postman collection (source)](https://github.com/maximizercrm/ferret-api-postman)
+- [Octopus API Postman collection (source)](https://github.com/maximizercrm/octopus-api)
+- [Ferret API Postman collection (source)](https://github.com/maximizercrm/ferret-api)
 
 #### Useful links
 - [Maximizer CRM](https://www.maximizer.com)
