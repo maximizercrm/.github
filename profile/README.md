@@ -4,7 +4,7 @@
 
 #### Development resources
 - [Maximizer Developer portal](https://developer.maximizer.com/)
-- [Postman collections](https://www.postman.com/maximizercrm/)
+- [Postman collections](https://www.postman.com/maximizercrm?tab=collections)
 - [Legacy docs](https://legacydocs.developer.maximizer.com/)
 
 #### Useful links
