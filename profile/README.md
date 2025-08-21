@@ -7,7 +7,6 @@
 - [Release notes](https://developer.maximizer.com/changelog)
 - [Forums](https://developer.maximizer.com/discuss)
 - [Postman collections](https://www.postman.com/maximizercrm?tab=collections)
-- [Legacy docs](https://legacydocs.developer.maximizer.com/)
 
 #### Useful links
 - [Maximizer CRM](https://www.maximizer.com)
