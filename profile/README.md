@@ -1,6 +1,6 @@
 ![Maximizer CRM](maximizer.png)
 
-> Maximizer - a CRM specifically built for the sales leader.
+> Canada’s Easy-to-Use CRM
 
 #### Development Resources
 - [Maximizer Developer portal](https://developer.maximizer.com/)
